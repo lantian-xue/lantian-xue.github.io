@@ -1,8 +1,13 @@
+version: '3.3'
+
 services:
   jekyll-site:
-    image: jekyll-site
+    image: my-web:latest
     build: .
-    volumes: [.:/usr/src/app]
-    ports: [4000:4000]
-    user: 1000:1000
-    environment: [JEKYLL_ENV=docker]
+    volumes:
+      - .:/usr/src/app
+    ports:
+      - "4000:4000"
+    user: "1000:1000"
+    environment:
+      - JEKYLL_ENV=docker

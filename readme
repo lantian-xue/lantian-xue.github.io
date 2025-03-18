@@ -1,0 +1,2 @@
+sudo docker build -t my-web:latest .
+docker-compose up

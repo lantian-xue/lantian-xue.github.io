@@ -1,2 +1,8 @@
 sudo docker build -t my-web:latest .
 docker-compose up
+
+
+#
+sudo docker-compose down
+sudo docker images
+sudo docker rmi cb837c60ab37

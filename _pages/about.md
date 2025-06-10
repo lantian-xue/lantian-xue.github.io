@@ -32,4 +32,4 @@ Skills:
 =======
  - **Algorithm Implementation:** Proficient in using mathematical libraries such as ScaLAPACK and FFTW for eigenvalue problem solving and iterative methods like CG for linear equations.  
  - **Material Properties Calculation:** Experienced in using VASP, Quantum ESPRESSO, PARSEC, and SPARC for electronic structure calculations, as well as applying Boltzmann transport theory for transport property simulations.  
- - **Software Development:** Skilled in writing post-processing scripts using Shell and Python, developing Fortran programs in Linux environments, and designing and implementing MPI-based parallel computing.
+ - **Software Development:** Skilled in writing post-processing scripts using Shell and Python, developing Fortran programs on Linux platforms, and designing and implementing parallel computing with MPI..
